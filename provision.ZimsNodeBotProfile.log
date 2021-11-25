@@ -1,0 +1,28 @@
+{
+  "profileName": "ZimsNodeBotProfile",
+  "jobId": "605affc3-fbf4-454f-8e3c-494d67112afb",
+  "projectId": "12043.936387332877",
+  "time": "2021-11-25T01:39:43.911Z",
+  "log": [
+    "Creating Azure resources...",
+    "Checking the Existence of the Resource Group ...",
+    "Creating Resource Group ...",
+    "> Creating App Registration ...",
+    "Start to add password for App, Id : 8c808d33-bb7a-425a-903e-ae4127655565",
+    "> Create App Registration Success! ID: 8c808d33-bb7a-425a-903e-ae4127655565",
+    "Deploying Web App Resource ...",
+    "Deploying Bot Resource ...",
+    "Deploying Cosmos DB Resource ...",
+    "Deploying Application Insights Resource ...",
+    "> Linking Application Insights settings to Bot Service ...",
+    "> AppInsights AppId: a474c243-80f7-4332-ba33-c68720f599da ...",
+    "> AppInsights InstrumentationKey: 82e4b62b-8214-4bc7-abde-e2868f796e85 ...",
+    "> AppInsights ApiKey: fjyncvxw2s72dfc83vcelu81cm1q1a2trtpd2wlm ...",
+    "> Linking Application Insights settings to Bot Service Success!",
+    "Deploying Blob Storage Resource ...",
+    "Deploying Luis Authoring Resource ...",
+    "Deploying Luis Resource ...",
+    "Deploying QnA Resource ...",
+    "Provisioning completed successfully!"
+  ]
+}
